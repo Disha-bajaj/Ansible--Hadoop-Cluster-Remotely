@@ -1,0 +1,9 @@
+[all]
+IP_Address  ansible_user=root  ansible_ssh_password=Your_password  ansible_connection=ssh
+IP_Address  ansible_user=root  ansible_ssh_password=Your_password  ansible_connection=ssh
+
+[namenode]
+IP_Address  ansible_user=root  ansible_ssh_password=Your_password  ansible_connection=ssh
+
+[datanode]
+IP_Address  ansible_user=root  ansible_ssh_password=Your_password  ansible_connection=ssh
